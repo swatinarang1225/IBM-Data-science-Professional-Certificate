@@ -1,0 +1,2 @@
+# Data Science in Business
+In this week module, you will learn about the approaches companies can take to start working with data science. You will learn about some of the qualities that differentiate data scientists from other professionals. You will also learn about analytics, story-telling, and the pivotal role data scientists play in creating an effective final deliverable. Finally, you will apply what you learned about data science by answering open-ended questions.
