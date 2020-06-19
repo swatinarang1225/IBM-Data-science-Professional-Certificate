@@ -1,5 +1,5 @@
 # IBM-Data-science-Professional-Certificate
-# What is Data Science [Course 1 of 9 in IBM Data Science Professional Certificate]
+## What is Data Science [Course 1 of 9 in IBM Data Science Professional Certificate]
 # To Access the Course: Click Here
 # WHAT YOU WILL LEARN
 1.	Defining Data Science and What Data Scientist Do
