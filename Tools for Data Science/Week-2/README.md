@@ -1,0 +1,1 @@
+This week, we will learn about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. We will become familiar with the features of each tool, and what makes these tools so popular among data scientists today.
