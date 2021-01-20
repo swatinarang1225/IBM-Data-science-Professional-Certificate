@@ -1,1 +1,38 @@
+Below is the Jupyter Code for the final assignment of this course following by the link which is the final output of the code:
 
+
+# My Jupyter Notebook on IBM Watson Studio
+
+**Swati Narang**
+
+Software Engineer
+
+*I an interested in Data Science because I love to tell stories from data and it makes me more powerful.*
+
+### The following code test the Gauss formula.
+
+def gauss(n):
+    return (n*(n+1))/2
+gauss(100) == sum(range(101))
+
+```javascript
+var s = "javascript syntax highliting";
+alert(s);
+```
+
+
+
+---
+* One
+
+* Two
+
+* Three
+
+
+
+Click the [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr) for more formatting options.
+
+
+
+LINK : https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0699a9d2-bf64-4778-9dbc-a4a1ba8040bd/view?access_token=a0b81631974acbd53b66ca702008735ed27569e16651cc2d192dc0640f5fe7fa
