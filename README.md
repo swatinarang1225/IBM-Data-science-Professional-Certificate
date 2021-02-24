@@ -29,4 +29,12 @@ Accordingly, in this course, you will learn:
     - The major steps involved in tackling a data science problem.
     - The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
     - How data scientists think!
+ 
+## Python for Data Science, AI & Development [Course 4 of 9 in IBM Data Science Professional Certificate]
+### To Access the Course: [Click Here](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)
+### ABOUT THE COURSE
+This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills. 
+
+By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career. 
+
 
