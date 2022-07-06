@@ -1,0 +1,1 @@
+This mini-course is intended to demonstrate foundational Python skills for working with data. This course involves working on a hands-on project where you will develop a simple dashboard using Python Libraries Such as Numpy and Pandas. Also, this course teaches you the concept of WebScrapping and how to use it with Python Programming.
