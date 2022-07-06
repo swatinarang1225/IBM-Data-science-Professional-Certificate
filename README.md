@@ -39,7 +39,7 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 
 ## Python Project for Data Science [Course 5 of 9 in IBM Data Science Professional Certificate]
 ### To Access the Course: [Click Here](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)
-## ABOUT THE COURSE
+### ABOUT THE COURSE
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
 
 
