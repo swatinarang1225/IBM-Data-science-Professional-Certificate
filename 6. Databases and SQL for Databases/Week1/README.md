@@ -1,4 +1,4 @@
-# In this , we learned some basic SQL statements and practice them hands-on on a live database.
+### In this , we learned some basic SQL statements and practice them hands-on on a live database.
 ## Learning Objectives
 1. Create an IBM Cloud Lite account.
 2. Describe SQL and Databases
